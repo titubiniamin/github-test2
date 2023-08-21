@@ -4,5 +4,6 @@ this line also added from feature
 this line added from remote master
 this line added from remote feature 2
 this line is from feature line 6
+this is from remote feature2 line 7
 
 
