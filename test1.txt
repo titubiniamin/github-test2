@@ -2,5 +2,6 @@ this is test 1
 this line added from feature
 this line also added from feature
 this line added from remote master
-this is from local featured added line 6
+this line added from remote feature 2
+
 
