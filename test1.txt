@@ -8,5 +8,6 @@ this is from remote feature2 line 7
 this is from remote feature2 line 8
 this is from remote feature2 line 9
 this is from remote feature2 line 10
+this is from remote master line 11
 
 
