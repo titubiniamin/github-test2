@@ -1,4 +1,4 @@
-this is test 1
+this is test edited from remote master
 this line added from feature
 this line also added from feature
 this line added from remote master
@@ -17,4 +17,5 @@ this is from remote feature2 line 16
 sdfsdf
 abcd
 solved
+newline from remote_master
 
