@@ -1,4 +1,4 @@
-this is test edited from remote_branch3
+this is test edited from remote master
 this line added from feature
 this line also added from feature
 this line added from remote master
@@ -18,4 +18,5 @@ sdfsdf
 abcd
 solved
 neline from remote_branch3
+
 
