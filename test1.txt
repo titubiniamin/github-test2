@@ -17,5 +17,6 @@ this is from remote feature2 line 16
 sdfsdf
 abcd
 solved
-newline from remote_master
+neline from remote_branch3
+
 
